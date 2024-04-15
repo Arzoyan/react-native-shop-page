@@ -53,7 +53,7 @@ const styles = StyleSheet.create({
   categoryRootContainer: {
     borderBottomWidth: 1,
     backgroundColor: "#F9F9F9",
-    borderBottomColor: "#FF9900",
+    borderBottomColor: "#DFDFDF",
     padding: 10,
     width: "100%",
   },
